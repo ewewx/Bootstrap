@@ -3,21 +3,29 @@
     height: 200px;
 }
 #navbar{
-    background-color: #96BAFF;
-    height: 200px;
+    background-color: #E0C097;
+    height: auto;
+    
+}
+#red{
+    background-color:#7C83FD; ;
+}
+.navbar-brand{
+    margin-left:60px;
+}
+#boxNav{
+    padding-left:0;
+    padding-right: 0;
 }
 .fotoA{
-    background-color: #7DEDFF;
-    height: 300px;
+    background-color: #C68B59;
+    
 }
 .fotoB{
-    background-color:#88FFF7 ;
-    height: 300px;
+    background-color:#865439 ;
+  
 }
-#redes{
-    background-color: #548CA8;
-    height: 200px;
-}
+
 #contacto{
     background-color: #476072;
     height: 200px;
@@ -67,6 +75,76 @@
     text-align: center;
     align-content: center;
 }
-.nav-item{
-    margin-top:70px;
+.nav-item {
+    padding: 0 18px;
+    font-family: 'Fredericka the Great', cursive;
+    font-weight: 200;
+    font-size: 2rem;
+    color:azure;
+}
+
+
+.fotoVenus{
+    width:400px;
+    margin: 30px auto;
+} 
+.fotoNizzero{
+    margin: 30px auto;
+    width:415px
+}
+.fotoPolese{
+    margin: 30px auto;
+    width:480px
+}
+.fotoC{
+    background-color:#5C3D2E;
+
+}
+.fotoD{
+    background-color:#5C3D2E;
+  
+}
+.fotoE{
+    background-color: #E0C097;
+}
+.fotoLogo{
+    margin:0 auto;
+    width:500px;
+    background-image:#96BAFF ;
+}
+#navbarTogglerDemo01{
+    margin-top:30px;
+}
+#inicio,#precios,#cursos,#login,#redes{
+    color:#3D087B;
+}
+
+#artista1{
+    width:50px;
+}
+h1,h2,h3{
+    text-align: center;
+
+}
+
+.whats {
+    font-size:5rem;
+    color: black;
+    margin-right: 30px;
+}
+.insta{
+    font-size:5rem;
+    color: black; 
+}
+.links{
+    margin-top:60px;
+    text-align: center;
+}
+#pricing{
+    background-color: #96BAFF;
+   margin-right: -15px;
+    margin-left:-15px;
+}
+.title-cursos{
+    text-align: center;
 }
